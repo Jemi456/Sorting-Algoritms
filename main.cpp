@@ -75,7 +75,6 @@ ListaSDC* elementos()
     else{
         cout<<"Los numeros deben ser: 50, 100, 200, 500, o 1000."<<endl;
         elementos();
-        //return cantidad;
     }
 }
 
@@ -216,7 +215,7 @@ cuantas repeticiones hay de un num definido
 
     ejemplo de la profe para eliminar
 
-    Incorporar este codigo para probar la eliminación en el programa principa/
+    Incorporar este codigo para probar la eliminaciÃ³n en el programa principa/
 
     Probando remover el elemento actual de la lista,
 
